@@ -8,7 +8,7 @@
      I also like to get out, site see and hangout with friends and be sociable 
 
 - 🌱 I’m currently learning ...
-     Fullstack development( JavaScript/ CSS/ HTML/ Python )
+     Fullstack development( JavaScript/ CSS/ HTML/ Python/ Three js/ Typescript )
      
 - 💞️ I’m looking to collaborate on ...
      Anything, I'm very interested in helping others on my journey to learn more about coding.
