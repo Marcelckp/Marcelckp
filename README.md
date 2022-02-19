@@ -5,7 +5,7 @@
      Coding 
      Gaming 
      Basket ball && Soccer
-     I also like to get out site see and hangout with friends and be sociable 
+     I also like to get out, site see and hangout with friends and be sociable 
 
 - 🌱 I’m currently learning ...
      Fullstack development( JavaScript/ CSS/ HTML/ Python )
