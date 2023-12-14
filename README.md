@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcel Palmer</h1>
 <h3 align="center">A passionate full stack & creative developer from South Africa</h3>
 
-- 🌱 I’m currently learning **Python, GO, AWS**
+- 🌱 I’m currently learning **AWS, Three JS, VR development**
 
 - 💬 Ask me about **React, GSAP, Tailwind, Webpack, Three js, Express, Next js. Anything at all I'll be more then willing to have a conversation**
 
