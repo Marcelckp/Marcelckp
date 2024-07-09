@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS, Three JS, VR development**
 
-- 💬 Ask me about **React, GSAP, Tailwind, Webpack, Three js, Express, Next js. Anything at all I'll be more then willing to have a conversation**
+- 💬 Ask me about **React, GSAP, Tailwind, Webpack, Three js, Spline, Shaders (GLSL), GSAP, Swift, WebXR, RTC, Express, Next js. Anything at all I'll be more then willing to have a conversation**
 
 - 📫 How to reach me **marcelkpalmer@gmail.com**
 
