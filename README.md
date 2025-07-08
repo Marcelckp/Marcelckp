@@ -23,5 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelckp&" alt="marcelckp" /></p>
 
-
 Last updated: 2025-07-09T00:13:38+02:00
